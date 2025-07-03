@@ -1,4 +1,3 @@
-// Online C++ compiler to run C++ program online
 #include <bits/stdc++.h>
 using namespace std;
 
@@ -30,7 +29,6 @@ bool digit(int n){
 }
 
 int main() {
-    // Write C++ code here
     
     
     for(int i=100;i<1000;i++){
